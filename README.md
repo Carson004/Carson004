@@ -1,9 +1,9 @@
 # oanda-api-rails
 
-[![CI](https://github.com/mishina2228/oanda-api-rails/workflows/ci/badge.svg)](https://github.com/mishina2228/oanda-api-rails/actions)
-[![Maintainability](https://api.codeclimate.com/v1/badges/b6b9044754816afc195c/maintainability)](https://codeclimate.com/github/mishina2228/oanda-api-rails/maintainability)
-[![codecov](https://codecov.io/gh/mishina2228/oanda-api-rails/branch/master/graph/badge.svg)](https://codecov.io/gh/mishina2228/oanda-api-rails)
-[![GitHub license](https://img.shields.io/github/license/mishina2228/oanda-api-rails)](https://github.com/mishina2228/oanda-api-rails/blob/master/LICENSE)
+[![CI](https://github.com/carson004/oanda-api-rails/workflows/ci/badge.svg)](https://github.com/carson004/oanda-api-rails/actions)
+[![Maintainability](https://api.codeclimate.com/v1/badges/b6b9044754816afc195c/maintainability)](https://codeclimate.com/github/carson004/oanda-api-rails/maintainability)
+[![codecov](https://codecov.io/gh/carson004/oanda-api-rails/branch/master/graph/badge.svg)](https://codecov.io/gh/carson004/oanda-api-rails)
+[![GitHub license](https://img.shields.io/github/license/carson004/oanda-api-rails)](https://github.com/mishina2228/oanda-api-rails/blob/master/LICENSE)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 [![Ruby Style Guide](https://img.shields.io/badge/code_style-rubocop-brightgreen.svg)](https://github.com/rubocop/rubocop)
 
